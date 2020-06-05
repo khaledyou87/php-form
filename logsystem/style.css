@@ -1,0 +1,53 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {}
+
+.goodsignup {
+
+    color: green;
+
+
+}
+
+.badsignup {
+
+    color: red;
+
+}
+
+.login-status {
+
+    color: rgb(13, 151, 20);
+    position: relative;
+    top: 50px;
+    left: 600px;
+
+}
+
+.logout-status {
+    color: orangered;
+    position: relative;
+    top: 50px;
+    left: 600px;
+
+
+}
+
+.nav-link {
+
+    color: black;
+
+
+
+
+}
+
+.nav-link:hover {
+    color: #5a5555;
+}
